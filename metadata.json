@@ -1,0 +1,7 @@
+{
+  "name": "RouteBench",
+  "description": "A benchmarking tool for route optimization algorithms comparing Original, Nearest Neighbor, and 2-Opt (VROOM simulation).",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
